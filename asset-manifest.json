@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-forum/static/css/main.caac9c93.chunk.css",
+    "main.js": "/react-forum/static/js/main.e0b01ed2.chunk.js",
+    "main.js.map": "/react-forum/static/js/main.e0b01ed2.chunk.js.map",
+    "runtime-main.js": "/react-forum/static/js/runtime-main.aeca0cdd.js",
+    "runtime-main.js.map": "/react-forum/static/js/runtime-main.aeca0cdd.js.map",
+    "static/css/2.3cb76441.chunk.css": "/react-forum/static/css/2.3cb76441.chunk.css",
+    "static/js/2.9fa7841d.chunk.js": "/react-forum/static/js/2.9fa7841d.chunk.js",
+    "static/js/2.9fa7841d.chunk.js.map": "/react-forum/static/js/2.9fa7841d.chunk.js.map",
+    "index.html": "/react-forum/index.html",
+    "precache-manifest.d32d9270516e6cda979e14e54e49403b.js": "/react-forum/precache-manifest.d32d9270516e6cda979e14e54e49403b.js",
+    "service-worker.js": "/react-forum/service-worker.js",
+    "static/css/2.3cb76441.chunk.css.map": "/react-forum/static/css/2.3cb76441.chunk.css.map",
+    "static/css/main.caac9c93.chunk.css.map": "/react-forum/static/css/main.caac9c93.chunk.css.map",
+    "static/js/2.9fa7841d.chunk.js.LICENSE.txt": "/react-forum/static/js/2.9fa7841d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeca0cdd.js",
+    "static/css/2.3cb76441.chunk.css",
+    "static/js/2.9fa7841d.chunk.js",
+    "static/css/main.caac9c93.chunk.css",
+    "static/js/main.e0b01ed2.chunk.js"
+  ]
+}
