@@ -1,0 +1,15 @@
+#components-layout-demo-side .logo {
+  height: 40px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 10px;
+}
+
+.site-layout .site-layout-background {
+  background: rgb(255, 255, 255);
+}
+.site-layout .site-layout-header {
+  background: rgb(108, 169, 240);
+}
+.site-layout .site-layout-children {
+  background-color: #ab8663;
+}
