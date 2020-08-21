@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "220a34a8f66a2c1b55cab5f27ba96870",
+    "revision": "0cadb671c801537b41bee37db4e08747",
     "url": "/react-forum/index.html"
   },
   {
-    "revision": "1bd99c46a3a19cff15b5",
+    "revision": "df9c5b992b68c07f1b74",
     "url": "/react-forum/static/css/2.3cb76441.chunk.css"
   },
   {
-    "revision": "fd92669c2d94abb012fd",
+    "revision": "825239c922b253449d45",
     "url": "/react-forum/static/css/main.caac9c93.chunk.css"
   },
   {
-    "revision": "1bd99c46a3a19cff15b5",
-    "url": "/react-forum/static/js/2.9fa7841d.chunk.js"
+    "revision": "df9c5b992b68c07f1b74",
+    "url": "/react-forum/static/js/2.c91f64db.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-forum/static/js/2.9fa7841d.chunk.js.LICENSE.txt"
+    "url": "/react-forum/static/js/2.c91f64db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd92669c2d94abb012fd",
-    "url": "/react-forum/static/js/main.e0b01ed2.chunk.js"
+    "revision": "825239c922b253449d45",
+    "url": "/react-forum/static/js/main.6a24e06d.chunk.js"
   },
   {
     "revision": "e404c79d6b872acd9357",
